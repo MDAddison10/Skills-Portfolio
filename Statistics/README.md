@@ -1,1 +1,1 @@
-# Statistics Files
+# In this project, I used a regression model and correlation to observe the significance of certain independent variables on violent crime. The objective is to observe how the eight independent variables affect violent crime. I used methods such as box plots to check skewness, correlation analysis, and two regression models. The results of this project could be used as a way to reduce violent crime by targeting variables that affect violent crime the most.
