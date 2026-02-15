@@ -1,1 +1,1 @@
-# Excel Files
+# This is a project that focused on transforming data to be able to run clustering analysis on. This is a data set that includes customer transactions like invoice date, sales, and price. The file contains an analysis of the nature and distributions of the data, including standardization for a clustering model. 
