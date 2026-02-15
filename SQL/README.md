@@ -1,1 +1,1 @@
-# SQL Files
+# Designed and implemented a fully normalized relational database schema in MySQL for a property management system, including table creation, data population, primary and foreign key constraints, and data integrity checks. Developed views, aggregate queries, indexing strategies, and role-based access controls to support reporting, performance optimization, and secure multi-user database management.
