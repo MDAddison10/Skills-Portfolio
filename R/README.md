@@ -1,1 +1,1 @@
-# R Programming
+# The Whole Game Project leverages R to clean, transform, and analyze freight shipment data, generating insightful and easy-to-understand visualizations on carrier cost efficiency, delivery performance, and operational comparisons. 
